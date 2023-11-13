@@ -10,16 +10,16 @@ Link: [Bank Customer Churn Dataset | Kaggle](https://www.kaggle.com/datasets/gau
 
 This dataset is for ABC Multistate bank with following columns:
 
-1. `customer_id`: Account Number
-2. `credit_score`: Credit Score
-3. `country`: Country of Residence
-4. `gender`: Sex
-5. `age`: Age
-6. `tenure`: From how many years he/she is having bank acc in ABC Bank
-7. `balance`: Account Balance
-8. `products_number`: Number of Product from bank
-9. `credit_card`: Is this customer have credit card ?
-10. `active_member`: Is he/she is active Member of bank ?
+1. **customer_id**: Account Number
+2. **credit_score**: Credit Score
+3. **country**: Country of Residence
+4. **gender**: Sex
+5. **age**: Age
+6. **tenure**: From how many years he/she is having bank acc in ABC Bank
+7. **balance**: Account Balance
+8. **products_number**: Number of Product from bank
+9. **credit_card**: Is this customer have credit card ?
+10. **active_member**: Is he/she is active Member of bank ?
 
 ## Business Objectives
 
@@ -53,14 +53,18 @@ This dataset is for ABC Multistate bank with following columns:
    - **Columns Used**: All columns except `customer_id` and `country`
    - **Approach**: Utilize A/B testing and experimental design methodologies to test different retention strategies. Analyze the data to determine which strategies are most effective in retaining customers. This could involve testing different incentives, communication channels, or engagement approaches.
 
-## Reference
+## Reference Notebooks
 
 1. [BankChurn EDA and Prediction Using Lazy Classifier | Kaggle](https://www.kaggle.com/code/prathameshgadekar/bankchurn-eda-and-prediction-using-lazy-classifier)
 
 2. [Churn - EDA, Balancing and Machine Learning | Kaggle](https://www.kaggle.com/code/raphaelmarconato/churn-eda-balancing-and-machine-learning)
 
-3. [Medium blog on customer retention analysis using PowerBI](https://medium.com/@Feranmi_Amole/customer-retention-analysis-with-power-bi-d9dd00077a36)
 
-4. [Customer retention using SQL](https://medium.com/cube-dev/customer-retention-analysis-93af9daee46b)
 
-5. [Customer retention Kaggle](https://www.kaggle.com/datasets/uttamp/store-data)
+**References**:
+
+1. [Medium blog on customer retention analysis using PowerBI](https://medium.com/@Feranmi_Amole/customer-retention-analysis-with-power-bi-d9dd00077a36)
+
+2. [Customer retention using SQL](https://medium.com/cube-dev/customer-retention-analysis-93af9daee46b)
+
+3. [Customer retention Kaggle](https://www.kaggle.com/datasets/uttamp/store-data)
