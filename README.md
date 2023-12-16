@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Name: Bank Customer Churn Prediction
+Name: **Bank Customer Churn Prediction**
 
 Link: [Bank Customer Churn Dataset | Kaggle](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset)
 
