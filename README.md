@@ -1,4 +1,4 @@
-# Preventing Customer Churn of ABC Bank
+# Reducing Customer Churn of ABC Bank
 
 ## Reference
 
