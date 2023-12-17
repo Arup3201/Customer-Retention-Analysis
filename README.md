@@ -4,6 +4,30 @@ ABC bank stakeholder have reached out to me for the solution of their recent sur
 
 To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
 
+## Business Understanding
+
+
+
+## Data Understanding
+
+
+
+## Data Preparation
+
+
+
+## Modeling
+
+
+
+## Evaluation
+
+
+
+## Deployment
+
+
+
 ## Reference
 
 1. [BankChurn EDA and Prediction Using Lazy Classifier | Kaggle](https://www.kaggle.com/code/prathameshgadekar/bankchurn-eda-and-prediction-using-lazy-classifier)
