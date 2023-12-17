@@ -1,9 +1,7 @@
 # Preventing Customer Churn of ABC Bank
 
-## Email [ChatGPT Generated]
-
 ---
-
+## Email [ChatGPT Generated]
 Subject: Urgent: Addressing Rising Customer Churn Rates at ABC Multitask Bank
 
 Dear [Your Name],
