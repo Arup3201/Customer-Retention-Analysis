@@ -1,5 +1,9 @@
 # Reducing Customer Churn of ABC Bank
 
+ABC bank stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
+
+To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
+
 ## Reference
 
 1. [BankChurn EDA and Prediction Using Lazy Classifier | Kaggle](https://www.kaggle.com/code/prathameshgadekar/bankchurn-eda-and-prediction-using-lazy-classifier)
