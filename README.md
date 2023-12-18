@@ -6,7 +6,7 @@ To solve this problem, they need a data scientist who can help them understand t
 
 In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
 
-## Problem Statement
+## Business Problem
 
 ABC bank want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
 
@@ -26,27 +26,15 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 
 ## Business Understanding
 
-
-
 ## Data Understanding
-
-
 
 ## Data Preparation
 
-
-
 ## Modeling
-
-
 
 ## Evaluation
 
-
-
 ## Deployment
-
-
 
 ## Reference
 
