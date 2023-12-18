@@ -4,6 +4,24 @@ ABC bank stakeholder have reached out to me for the solution of their recent sur
 
 To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
 
+## Problem Statement
+
+ABC bank want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
+
+The problem in hand incorporates 5 things to do:
+
+1. **Customer Behavior Patterns:** Analyze recent customer interactions, transactions, and service usage to identify any discernible patterns or anomalies that might be indicative of disengagement or dissatisfaction.
+
+2. **Service Satisfaction Metrics:** Evaluate the effectiveness of our current customer service strategies and identify areas for improvement. Are there specific services or touchpoints that consistently result in customer dissatisfaction?
+
+3. **Competitive Benchmarking:** Conduct a comparative analysis with other leading banks in our market to identify any superior practices or features that may be attracting our customers away.
+
+4. **Predictive Modeling:** Develop predictive models to forecast potential churn candidates based on historical data. This will enable us to proactively address concerns and tailor retention strategies.
+
+5. **Customer Feedback Analysis:** Scrutinize customer feedback channels, such as surveys and complaints, to pinpoint recurring issues and sentiments that may be contributing to the churn.
+
+The ultimate goal is not just to understand the cause of the customer churn but also to implement effective measures that will help retain the valued clients.
+
 ## Business Understanding
 
 
