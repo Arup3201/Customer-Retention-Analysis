@@ -4,6 +4,8 @@ ABC bank stakeholder have reached out to me for the solution of their recent sur
 
 To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
 
+In this project, I will performing data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
+
 ## Problem Statement
 
 ABC bank want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
