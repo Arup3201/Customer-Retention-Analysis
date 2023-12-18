@@ -1,5 +1,11 @@
 # Reducing Customer Churn of ABC Bank
 
+ABC bank stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
+
+To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
+
+In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
+
 Steps:
 1. [Business Problem](#business-problem)
 2. [Business Understanding](#business-understanding)
@@ -9,12 +15,6 @@ Steps:
 6. [Evaluation](#evaluation)
 7. [Deployment](#deployment)
 8. [Reference](#reference)
-
-ABC bank stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
-
-To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
-
-In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
 
 ## Business Problem
 
