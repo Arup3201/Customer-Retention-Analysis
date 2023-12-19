@@ -6,6 +6,16 @@ To solve this problem, they need a data scientist who can help them understand t
 
 In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
 
+Steps:
+1. [Business Problem](#business-problem)
+2. [Business Understanding](#business-understanding)
+3. [Data Understanding](#data-understanding)
+4. [Data Preparation](#data-preparation)
+5. [Modeling](#modeling)
+6. [Evaluation](#evaluation)
+7. [Deployment](#deployment)
+8. [Reference](#reference)
+
 ## Business Problem
 
 ABC bank want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
@@ -52,8 +62,4 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 
 2. [Churn - EDA, Balancing and Machine Learning | Kaggle](https://www.kaggle.com/code/raphaelmarconato/churn-eda-balancing-and-machine-learning)
 
-3. [Medium blog on customer retention analysis using PowerBI](https://medium.com/@Feranmi_Amole/customer-retention-analysis-with-power-bi-d9dd00077a36)
-
-4. [Customer retention using SQL](https://medium.com/cube-dev/customer-retention-analysis-93af9daee46b)
-
-5. [Customer retention Kaggle](https://www.kaggle.com/datasets/uttamp/store-data)
+3. [Customer retention Kaggle](https://www.kaggle.com/datasets/uttamp/store-data)
