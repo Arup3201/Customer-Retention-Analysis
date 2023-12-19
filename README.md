@@ -26,6 +26,16 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 
 ## Business Understanding
 
+**Customer Profiling**: Analyzing customer behaviour patterns such as their interactions, transactions and service usage to understand each group of customers and find out the properties of those groups. From this, we can also find out which group has properties of dissatisfaction or disengagement which essentially means to find the groups that has more chances of churn.
+
+**Regression Analysis of Customer Satisfaction**: Using regression to predict or estimate the customer satisfaction of customers towards customer service strategies. Analyzing the difference between satisfied and dissatisfied customers using the regression prediction. Then, looking at the features that differentiate the 2 groups and thinking of strategies to improve on those features.
+
+**Clustering Analysis with Other Banks**: Grouping the banks with other banks and finding out the different clusters that have different properties. Looking for the ABC bank among the clusters and finding the group that has higher competitive advantage over ABC bank. Then, we can find the difference in features that creates this competitive advantage when we can try to bring that same feature values at ABC bank.
+
+**Class Probablity Estimation**: Predicting the probablities of the customer churning from ABC bank using classification technique. It helps forecasting potential churn candidates based on historical data. It will help us in understanding the customers who are going to churn, ans then focus next services on only those who have better chances of turning back. It will also help in understanding the candidates who have highest churn rate and their problems.
+
+**Sentiment Analysis of Customer feedbacks, complaints and surveys**: Using NLP to examine the sentiment of the feedbacks and researching the words that are used when the sentiment is negative can help in finding out what customers are dissatisfied about and also whatever we find positive from the positive sentiment, whether we can include that to improve customer experiences.
+
 ## Data Understanding
 
 ## Data Preparation
