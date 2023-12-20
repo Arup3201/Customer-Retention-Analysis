@@ -7,6 +7,7 @@ To solve this problem, they need a data scientist who can help them understand t
 In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
 
 Steps:
+
 1. [Business Problem](#business-problem)
 2. [Business Understanding](#business-understanding)
 3. [Data Understanding](#data-understanding)
@@ -47,6 +48,8 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 - **Sentiment Analysis of Customer feedbacks, complaints and surveys**: Using NLP to examine the sentiment of the feedbacks and researching the words that are used when the sentiment is negative can help in finding out what customers are dissatisfied about and also whatever we find positive from the positive sentiment, whether we can include that to improve customer experiences.
 
 ## Data Understanding
+
+
 
 ## Data Preparation
 
