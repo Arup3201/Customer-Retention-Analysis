@@ -1,6 +1,6 @@
 # Reducing Customer Churn of ABC Bank
 
-ABC bank stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
+Telco company stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
 
 To solve this problem, they need a data scientist who can help them understand the underlying cause of this sudden increase in customer defection.
 
@@ -19,7 +19,7 @@ Steps:
 
 ## Business Problem
 
-ABC bank want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
+Telco company want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
 
 The problem in hand incorporates 5 things to do:
 
@@ -27,7 +27,7 @@ The problem in hand incorporates 5 things to do:
 
 2. **Service Satisfaction Metrics:** Evaluate the effectiveness of our current customer service strategies and identify areas for improvement. Are there specific services or touchpoints that consistently result in customer dissatisfaction?
 
-3. **Competitive Benchmarking:** Conduct a comparative analysis with other leading banks in our market to identify any superior practices or features that may be attracting our customers away.
+3. **Competitive Benchmarking:** Conduct a comparative analysis with other leading companies in the same market to identify any superior practices or features that may be attracting our customers away.
 
 4. **Predictive Modeling:** Develop predictive models to forecast potential churn candidates based on historical data. This will enable us to proactively address concerns and tailor retention strategies.
 
@@ -39,19 +39,31 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 
 - **Customer Profiling**: Analyzing customer behaviour patterns such as their interactions, transactions and service usage to understand each group of customers and find out the properties of those groups. From this, we can also find out which group has properties of dissatisfaction or disengagement which essentially means to find the groups that has more chances of churn.
 
-- **Regression Analysis of Customer Satisfaction**: Using regression to predict or estimate the customer satisfaction of customers towards customer service strategies. Analyzing the difference between satisfied and dissatisfied customers using the regression prediction. Then, looking at the features that differentiate the 2 groups and thinking of strategies to improve on those features.
+- **Regression Analysis of Customer Satisfaction**: Using regression to predict or estimate the churn rate of customers towards customer service strategies. Analyzing the difference between satisfied and dissatisfied customers using the regression prediction. Then, looking at the features that differentiate the 2 groups and thinking of strategies to improve on those features.
 
-- **Clustering Analysis with Other Banks**: Grouping the banks with other banks and finding out the different clusters that have different properties. Looking for the ABC bank among the clusters and finding the group that has higher competitive advantage over ABC bank. Then, we can find the difference in features that creates this competitive advantage when we can try to bring that same feature values at ABC bank.
+- **Comparative Analysis with Leading Companies**: FUTURE WORK...
 
 - **Class Probablity Estimation**: Predicting the probablities of the customer churning from ABC bank using classification technique. It helps forecasting potential churn candidates based on historical data. It will help us in understanding the customers who are going to churn, ans then focus next services on only those who have better chances of turning back. It will also help in understanding the candidates who have highest churn rate and their problems.
 
-- **Sentiment Analysis of Customer feedbacks, complaints and surveys**: Using NLP to examine the sentiment of the feedbacks and researching the words that are used when the sentiment is negative can help in finding out what customers are dissatisfied about and also whatever we find positive from the positive sentiment, whether we can include that to improve customer experiences.
+- **Analysis of Churn Reasons**: Using NLP to examine the sentiment of the churn reasons and researching the words that are used when the sentiment is negative can help in finding out what customers are dissatisfied about and also whatever we find positive from the positive sentiment, whether we can include that to improve customer experiences.
 
 ## Data Understanding
 
+- For **Customer Profiling**, I will use unsupervised learning algorithms to understand the groups of clusters that have similarities to each other. The dataset contains features like [NAME OF ALL FEATURES THAT I AM USING] to apply clustering.
 
+- For **Regression analysis**, I am using supervised learning which means I am using the labels of satisfaction measure that have values from 1-5. In this case, classification can also be an answer but for now I will go with regression.
+
+- For **Comparative Analysis**, FUTURE WORK...
+
+- For **Class Probablity Estimation**, I am using the churn column of dataset to apply supervised algorithm to classify between churn or not churn.
+
+- For **Sentiment Analysis**, I am using the churn reason from customers to apply NLP to find out the words or most common reasons for the customers to churn.
 
 ## Data Preparation
+
+Dataset: `/data/teleco-customer-churn/telco_customer_churn.xlsx`.
+
+
 
 ## Modeling
 
