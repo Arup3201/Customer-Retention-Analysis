@@ -6,8 +6,6 @@ To solve this problem, they need a data scientist who can help them understand t
 
 In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
 
-
-
 I am following the this diagram to work through this project.
 
 ![](C:\Users\HP\AppData\Roaming\marktext\images\2023-12-25-21-46-06-image.png)
