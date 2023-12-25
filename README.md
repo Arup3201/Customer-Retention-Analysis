@@ -1,4 +1,4 @@
-# Reducing Customer Churn of Teleco
+# Reducing Customer Churn of Telco
 
 Telco company stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
 
@@ -33,7 +33,7 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 
 - **Customer Profiling**: Analyzing customer behaviour patterns such as their interactions, transactions and service usage to understand each group of customers and find out the properties of those groups. From this, we can also find out which group has properties of dissatisfaction or disengagement which essentially means to find the groups that has more chances of churn.
 
-- **Class Probablity Estimation**: Predicting the probablities of the customer churning from Teleco company using classification technique. It helps forecasting potential churn candidates based on historical data. It will help us in understanding the customers who are going to churn, ans then focus next services on only those who have better chances of turning back. It will also help in understanding the candidates who have highest churn rate and their problems.
+- **Class Probablity Estimation**: Predicting the probablities of the customer churning from Telco company using classification technique. It helps forecasting potential churn candidates based on historical data. It will help us in understanding the customers who are going to churn, ans then focus next services on only those who have better chances of turning back. It will also help in understanding the candidates who have highest churn rate and their problems.
 
 ## Data Understanding
 
