@@ -1,4 +1,4 @@
-# Reducing Customer Churn of ABC Bank
+# Reducing Customer Churn of Teleco
 
 Telco company stakeholder have reached out to me for the solution of their recent surge in customer churn. This alarming trend is significantly impacting their long-standing relationship with their clients.
 
