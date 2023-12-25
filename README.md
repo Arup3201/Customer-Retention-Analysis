@@ -21,7 +21,7 @@ Steps:
 
 Telco company want me to find out the cause of the customer defection. Mainly they want me to see the relation between this customer churn with other factors like customer dissatisfaction, competitive pressure and customer preferences.
 
-The problem in hand incorporates 5 things to do:
+The problem in hand incorporates 2 things to do:
 
 1. **Customer Behavior Patterns:** Analyze recent customer interactions, transactions, and service usage to identify any discernible patterns or anomalies that might be indicative of disengagement or dissatisfaction.
 
