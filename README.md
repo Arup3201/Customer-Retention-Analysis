@@ -8,7 +8,7 @@ In this project, I will perform data analysis using Python and libraries to solv
 
 I am following the this diagram to work through this project.
 
-![](C:\Users\HP\AppData\Roaming\marktext\images\2023-12-25-21-46-06-image.png)
+![](./images/development-cycle.png)
 
 ## Business Problem
 
