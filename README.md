@@ -6,16 +6,11 @@ To solve this problem, they need a data scientist who can help them understand t
 
 In this project, I will perform data analysis using Python and libraries to solve this problem. Objective of this project is to learn more about data analysis practically and also to understand the flow of a real-life project in a company.
 
-Steps:
 
-1. [Business Problem](#business-problem)
-2. [Business Understanding](#business-understanding)
-3. [Data Understanding](#data-understanding)
-4. [Data Preparation](#data-preparation)
-5. [Modeling](#modeling)
-6. [Evaluation](#evaluation)
-7. [Deployment](#deployment)
-8. [Reference](#reference)
+
+I am following the this diagram to work through this project.
+
+![](C:\Users\HP\AppData\Roaming\marktext\images\2023-12-25-21-46-06-image.png)
 
 ## Business Problem
 
@@ -40,6 +35,24 @@ The ultimate goal is not just to understand the cause of the customer churn but 
 ## Data Preparation
 
 Dataset: `/data/teleco-customer-churn/telco_customer_churn.xlsx`.
+
+The following steps are follow to prepare the data-
+
+1. *Handling Missing Values:* Checking whether there are any missing values present in the data. If so taking appropriate measures to solve it.
+
+2. *Scaling:* We need to scale the features to make sure that model learns properly and also it does not treat one feature differently than other just because the scale of value is different. If one feature ranges larger than the other then irrespective of which feature is more important, it will give most importance to the feature with large range.
+
+3. *Encoding Categorical Features:* Treating the categorical features as integers so that we can use them in the model. In this case we can just assign sequential values to the categorical values of each features.
+
+4. *Feature crossing:* Mixing 2 or more features to come up with a new feature that explains more things when they were seperate. This also makes linear models learn non-linear relationships.
+
+Some considerations to avoid data leaks-
+
+- Train-test split shoul happen before the handling missing values.
+
+- Do the train-test split before scaling so that it does not capture the variance and mean using the values present in test data.
+
+- When dealing with duplicates, make sure to do this before train-test split otherwise there will be repeatations of same examples in the test set.
 
 ## Modeling
 
