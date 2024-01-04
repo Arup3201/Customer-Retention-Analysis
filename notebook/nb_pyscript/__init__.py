@@ -1,1 +1,1 @@
-from data import data_overview
+from .data import data_overview
