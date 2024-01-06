@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 def missing_count(col):
     return col.isnull().sum()
