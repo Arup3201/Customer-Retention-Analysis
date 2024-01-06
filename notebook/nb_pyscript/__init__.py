@@ -1,2 +1,2 @@
 from .data import data_overview
-from .visualize import pie_chart
+from .visualize import pie_chart, bar_chart
